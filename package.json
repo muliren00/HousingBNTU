@@ -19,7 +19,7 @@
     "cors": "*",
     "events": "^1.1.0",
     "express": "*",
-    "express-fileupload": "^1.1.7-alpha.3",
+    "express-fileupload": "^1.1.9",
     "flux": "^2.1.1",
     "jquery": "*",
     "keymirror": "^0.1.1",
