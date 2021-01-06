@@ -12,7 +12,7 @@
     "url": ""
   },
   "dependencies": {
-    "axios": "^0.9.1",
+    "axios": "^0.21.1",
     "body-parser": "^1.12.3",
     "bootstrap": "^4.4.1",
     "classnames": "^2.2.3",
